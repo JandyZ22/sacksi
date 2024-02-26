@@ -2,7 +2,7 @@
 
 Get ξ(Ray Angle) of PKIKP ray path.
 
-$\cos \xi=\frac{\cos \theta_1-\cos \theta_2}{\sqrt{2-2 \cos \theta_1 \cos \theta_2-2 \sin \theta_1 \sin \theta_2 \cos \left(\phi_1-\phi_2\right)}}$
+$\cos\xi = \frac{\left| \cos\theta_1 - \cos\theta_2 \right|}{\sqrt{2 - 2\cos\theta_1\cos\theta_2 - 2\sin\theta_1\sin\theta_2\cos(\phi_1 - \phi_2)}}$
 
 Calculation of ξ(Ray Angle) PKIKP ray path. 
 
